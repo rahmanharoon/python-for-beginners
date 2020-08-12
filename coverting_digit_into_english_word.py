@@ -23,3 +23,4 @@ elif n==10:
     print("TEN")
 else:
     print("Linit Over")
+    print("Please enter digit between 1 to 10")
