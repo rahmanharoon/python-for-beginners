@@ -1,0 +1,5 @@
+s=set("ROCKY")
+print(s)
+print('O' in s)
+print('R' in s)
+print('p' in s)
